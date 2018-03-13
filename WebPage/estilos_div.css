@@ -1,0 +1,13 @@
+#encabezado{
+    width: 97%;
+    height: 100px;
+    background-color: D0FA58;
+    margin: 15px 15px 15px 15px ;
+    border:1px inset purple
+}
+
+#logo_uninorte{
+	width:50%;
+	height:100px;
+	background-color:gray
+}
